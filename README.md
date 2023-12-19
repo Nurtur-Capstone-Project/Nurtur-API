@@ -1,4 +1,7 @@
 # ExpressRESTfulAPI
+## Backend Destination APIs Architecture
+![Frame 1](https://github.com/Nurtur-Capstone-Project/Nurtur-API/assets/85015643/0836c350-26fb-4006-b62a-7604e0ac9454)
+
 
 ## How to install
 
@@ -35,3 +38,9 @@ MAIL_PASSWORD=
 npm run dev
 ```
 5. Open the application in the browser, [http://localhost:3000/](http://localhost:3000/)
+## Example Test on local 
+![GET_API](https://github.com/Nurtur-Capstone-Project/Nurtur-API/assets/85015643/f74920cf-d934-4136-994f-3388bd730181)
+![CURRENT_API](https://github.com/Nurtur-Capstone-Project/Nurtur-API/assets/85015643/18a1bd63-4dab-4487-a715-cd0a33472795)
+![LOGIN_API](https://github.com/Nurtur-Capstone-Project/Nurtur-API/assets/85015643/c7c0136b-e524-47d3-b664-793ca6261564)
+
+
