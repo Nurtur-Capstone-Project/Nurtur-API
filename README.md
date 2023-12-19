@@ -19,12 +19,12 @@ APP_URL=http://localhost
 PORT=3000
 SECRET_KEY=secret
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_NAME=restful_server
-DB_USERNAME=root
-DB_PASSWORD=
+DB_CONNECTION=your_type_DB
+DB_HOST=your_host_DB
+DB_PORT=your_port_DB
+DB_NAME=your_DB_name
+DB_USERNAME=your_username
+DB_PASSWORD=your_password
 DATABASE_URL="${DB_CONNECTION}://${DB_USERNAME}:${DB_PASSWORD}@${DB_HOST}:${DB_PORT}/${DB_NAME}"
 
 MAIL_SERVICE=gmail
